@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/YounesTasra-R4z3rSw0rd/count.svg)
 <!--
 **YounesTasra-R4z3rSw0rd/YounesTasra-R4z3rSw0rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
