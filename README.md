@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">
+  <br>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=960202&width=435&lines=Younes+Tasra)](https://git.io/typing-svg)
+  <br>
+  <br>
+</h1>
+
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/YounesTasra-R4z3rSw0rd/count.svg) -->
 <!--
