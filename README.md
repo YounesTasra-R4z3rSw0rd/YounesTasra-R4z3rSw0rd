@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=791610&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Younes+Tasra+-+R4z3rSw0rd;Cybersecurity+Enthusiast+on+an+infinite+learning+loop" alt="Typing SVG" /></a><br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=791610&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Younes+Tasra+-+R4z3rSw0rd;Cybersecurity+Enthusiast+on+an+infinite+learning+loop." alt="Typing SVG" /></a><br/>
   <a href="https://www.linkedin.com/in/younes-tasra-95a1a4234/"><img src="https://img.shields.io/badge/Linkedin-%40YounesTasra-9cf.svg" alt="younes-tasra-95a1a4234" height="18"></a>
   <a href="https://younestasra-r4z3rsw0rd.github.io/"><img src="https://img.shields.io/badge/Portfolio-%40YounesTasra-brown.svg" alt="YounesTasra" height="18"></a>
   <a href="https://twitter.com/YounesTasra"><img src="https://img.shields.io/badge/Twitter-%40YounesTasra-blue.svg" alt="@YounesTasra" height="18"></a>
@@ -10,7 +10,7 @@
 </h1>
 
 ## 👩‍💻 About Me:
-- 🏫 I’m currently a cybersecurity engineering student 
+- 🏫 I am currently a cybersecurity engineering student 
 - 🚩 I am a proactive learner who seeks to expand my knowledge and skills in cybersecurity through the use of online platforms such as TryHackMe, HackTheBox, and other CTF platforms.
 - 🎓 I have keen interest in Ethical Hacking, Offensive Security, Red Teaming, and Network and Web Application Penetration Testing
 - 🔭 I am currently actively engaged in a project where I am developing an OSINT (Open Source Intelligence) Framework using Python3.
@@ -62,6 +62,24 @@
 * [Android Password Managers Security Analysis](https://github.com/YounesTasra-R4z3rSw0rd/Android-Password-Managers-Security-Analysis)
 * DNS Spoofer
 
+### ✍️ CTFs Writeups:
+#### 🚩 TryHackMe:
+* [Opacity](https://younestasra-r4z3rsw0rd.github.io/posts/opacity/)
+* [Dogcat](https://younestasra-r4z3rsw0rd.github.io/posts/dogcat/)
+* [Team](https://younestasra-r4z3rsw0rd.github.io/posts/Team/)
+* [B3dr0ck](https://younestasra-r4z3rsw0rd.github.io/posts/B3dR0ck/)
+* [Tomghost](https://younestasra-r4z3rsw0rd.github.io/posts/tomghost/)
+
+#### 🚩 HackTheBox:
+* [Stocker](https://younestasra-r4z3rsw0rd.github.io/posts/Stocker/)
+
+#### 🚩 PicoCTF:
+* [More Cookies | Web Exploitation](https://younestasra-r4z3rsw0rd.github.io/posts/MoreCookies/)
+
+#### 🧪 Web Security Academy Labs:
+* [SQL Injection Labs](https://younestasra-r4z3rsw0rd.github.io/posts/SQL-Injection-labs/)
+* [XXE Labs](https://github.com/YounesTasra-R4z3rSw0rd/Web-Security-Academy/tree/main/XXE%20Injection)
+
 ### 📈 Github Stats
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DYounesTasra-R4z3rSw0rd">
@@ -70,11 +88,12 @@
 </p>
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YounesTasra-R4z3rSw0rd&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounesTasra-R4z3rSw0rd&layout=compact&theme=tokyonight" alt="languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=YounesTasra-R4z3rSw0rd&show_icons=true&theme=dark&background=000000" alt="my github stats" width="420"/>&nbsp;
 </p>
-
 <p align=center>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YounesTasra-R4z3rSw0rd&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YounesTasra-R4z3rSw0rd&theme=dark&date_format=M%20j%5B%2C%20Y%5D"></img>
+</p>
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounesTasra-R4z3rSw0rd&layout=compact&theme=dark&background=000000" alt="languages" height="165">
 </p>
 
