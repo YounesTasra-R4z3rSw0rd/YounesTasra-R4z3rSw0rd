@@ -9,14 +9,14 @@
   <a href="https://app.hackthebox.com/users/970515"><img src="https://img.shields.io/badge/HackTheBox-%40R4z3rSw0rd-success.svg" alt="R4z3rSw0rd" height="18"></a>
 </h1>
 
-#### 👩‍💻 About Me:
+## 👩‍💻 About Me:
 - 🏫 I’m currently a cybersecurity engineering student 
 - 🚩 I am a proactive learner who seeks to expand my knowledge and skills in cybersecurity through the use of online platforms such as TryHackMe, HackTheBox, and other CTF platforms.
 - 🎓 I have keen interest in Ethical Hacking, Offensive Security, Red Teaming, and Network and Web Application Penetration Testing
 - 🔭 I am currently actively engaged in a project where I am developing an OSINT (Open Source Intelligence) Framework using Python3.
 
-#### 👩‍💻 Skills:
-##### 💻 Programming Languages:
+## 👩‍💻 Skills:
+### 💻 Programming Languages:
 <p>
   <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -30,7 +30,7 @@
    <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
 </p>
 
-##### 🛠️ Pentesting Tools:
+### 🛠️ Pentesting Tools:
 <p>
   <a href="https://www.kali.org/"><img alt="kali" src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white"></a>
   <a href="https://portswigger.net/burp/communitydownload"><img alt="Burpsuite" src="https://img.shields.io/badge/Burpsuite-FF5722?logo=blogger&logoColor=white"></a>
