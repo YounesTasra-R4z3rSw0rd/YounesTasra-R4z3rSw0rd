@@ -1,23 +1,61 @@
 <h1 align="center">
   <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=960202&center=true&vCenter=true&multiline=true&width=435&lines=Younes+Tasra;A.K.A+R4z3rSw0rd;Cybersecurity+Engineering+Student;CTF+Player+%40HTB+%26+%40THM;Penetration+Tester" alt="Typing SVG" /></a>
-  <br>
-  <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=791610&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Younes+Tasra+-+R4z3rSw0rd;Cybersecurity+Enthusiast+on+an+infinite+learning+loop" alt="Typing SVG" /></a><br/>
+  <a href="https://www.linkedin.com/in/younes-tasra-95a1a4234/"><img src="https://img.shields.io/badge/Linkedin-%40YounesTasra-9cf.svg" alt="younes-tasra-95a1a4234" height="18"></a>
+  <a href="https://younestasra-r4z3rsw0rd.github.io/"><img src="https://img.shields.io/badge/Portfolio-%40YounesTasra-brown.svg" alt="YounesTasra" height="18"></a>
+  <a href="https://twitter.com/YounesTasra"><img src="https://img.shields.io/badge/Twitter-%40YounesTasra-blue.svg" alt="@YounesTasra" height="18"></a>
+  <br/>
+  <a href="https://tryhackme.com/p/R4z3rSw0rd"><img src="https://img.shields.io/badge/TryHackMe-%40R4z3rSw0rd-critical.svg" alt="R4z3rSw0rd" height="18"></a>
+  <a href="https://app.hackthebox.com/users/970515"><img src="https://img.shields.io/badge/HackTheBox-%40R4z3rSw0rd-success.svg" alt="R4z3rSw0rd" height="18"></a>
 </h1>
 
+#### 👩‍💻 About Me:
+- 🏫 I’m currently a cybersecurity engineering student 
+- 🚩 I am a proactive learner who seeks to expand my knowledge and skills in cybersecurity through the use of online platforms such as TryHackMe, HackTheBox, and other CTF platforms.
+- 🎓 I have keen interest in Ethical Hacking, Offensive Security, Red Teaming, and Network and Web Application Penetration Testing
+- 🔭 I am currently actively engaged in a project where I am developing an OSINT (Open Source Intelligence) Framework using Python3.
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/YounesTasra-R4z3rSw0rd/count.svg) -->
-<!--
-**YounesTasra-R4z3rSw0rd/YounesTasra-R4z3rSw0rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👩‍💻 Skills:
+##### 💻 Programming Languages:
+<p>
+  <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+  <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+  <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
+  <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+  <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+   <a href="https://github.com/YounesTasra-R4z3rSw0rd#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+</p>
 
-Here are some ideas to get you started:
+##### 🛠️ Pentesting Tools:
+<p>
+  <a href="https://www.kali.org/"><img alt="kali" src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white"></a>
+  <a href="https://portswigger.net/burp/communitydownload"><img alt="Burpsuite" src="https://img.shields.io/badge/Burpsuite-FF5722?logo=blogger&logoColor=white"></a>
+  <a href="https://www.zaproxy.org/"><img alt="OWASP ZAP" src="https://img.shields.io/badge/OWASP ZAP-%230C55A5.svg?logo=OWASPZAP&logoColor=%white"></a>
+  <a href="https://nmap.org/"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-%235835CC.svg?logo=Qiskit&logoColor=white"></a>
+  <a href="https://www.metasploit.com/"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-143055?logo=metasploit&logoColor=white"></a>
+  <a href="https://www.tenable.com/products/nessus"><img alt="Nessus" src="https://img.shields.io/badge/Nessus-black?logo=next.js&logoColor=white"></a>
+  <a href="https://github.com/BloodHoundAD"><img alt="Bloodhound" src="https://img.shields.io/badge/BloodHound-%238F0000.svg?logo=node-red&logoColor=white"></a>
+  <a href="https://www.kali.org/tools/dirb/"><img alt="Dirb" src="https://img.shields.io/badge/Dirb-%23181717.svg?logo=Dirb&logoColor=white"></a>
+  <a href="https://github.com/OJ/gobuster"><img alt="Gobuster" src="https://img.shields.io/badge/Gobuster-FCC624?logoColor=black"></a>
+  <a href="https://github.com/ffuf/ffuf"><img alt="ffuf" src="https://img.shields.io/badge/ffuf-294172?logo=fedora&logoColor=white"></a>
+  <a href="https://www.openwall.com/john/"><img alt="JohnTheRipper" src="https://img.shields.io/badge/JohnTheRipper-EE0000?logo=redhat&logoColor=white"></a>
+  <a href="https://hashcat.net/hashcat/"><img alt="Hashcat" src="https://img.shields.io/badge/Hashcat-%23000000.svg?&logoColor=white"></a>
+  <a href="https://www.kali.org/tools/hydra/"><img alt="Hydra" src="https://img.shields.io/badge/Hydra-F3F1EA?&logoColor=372213"></a>
+  <a href="https://www.aircrack-ng.org/"><img alt="Aircrack-ng" src="https://img.shields.io/badge/Aircrack-ng-34495E?logoColor=5D9425"></a>
+  <a href="https://sqlmap.org/"><img alt="SQLMap" src="https://img.shields.io/badge/SQLMap-%2307405e.svg?logo=sqlite&logoColor=white"></a>
+  <a href="https://www.tcpdump.org/"><img alt="TCPDump" src="https://img.shields.io/badge/TCPdump-%2396060C.svg?logoColor=white"></a>
+  <a href="https://www.kali.org/tools/socat/"><img alt="Socat" src="https://img.shields.io/badge/Socat-%235835CC.svg?logoColor=white"></a>
+  <a href="https://nmap.org/ncat/"><img alt="Netcat" src="https://img.shields.io/badge/Netcat-%231428A0.svg?logoColor=white"></a>
+  <a href="https://github.com/DominicBreuker/pspy"><img alt="pspy" src="https://img.shields.io/badge/pspy-a50034.svg?logoColor=white"></a>
+  <a href="https://ghidra-sre.org/"><img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-%23F05033.svg?logoColor=white"></a>
+  <a href="https://rada.re/n/radare2.html"><img alt="radare2" src="https://img.shields.io/badge/Radare2-%23000000.svg?logo=Prezi&logoColor=white"></a>
+  <a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-%23000B25.svg?logo=sonarqube&logoColor=00A4DC"></a>
+  <a href="https://www.autopsy.com/"><img alt="Autopsy" src="https://img.shields.io/badge/Autopsy-59666C?logoColor=white"></a>
+</p>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
