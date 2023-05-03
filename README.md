@@ -63,22 +63,35 @@
 * DNS Spoofer
 
 ### ✍️ CTFs Writeups:
-#### 🚩 TryHackMe:
-* [Opacity](https://younestasra-r4z3rsw0rd.github.io/posts/opacity/)
-* [Dogcat](https://younestasra-r4z3rsw0rd.github.io/posts/dogcat/)
-* [Team](https://younestasra-r4z3rsw0rd.github.io/posts/Team/)
-* [B3dr0ck](https://younestasra-r4z3rsw0rd.github.io/posts/B3dR0ck/)
-* [Tomghost](https://younestasra-r4z3rsw0rd.github.io/posts/tomghost/)
-
-#### 🚩 HackTheBox:
-* [Stocker](https://younestasra-r4z3rsw0rd.github.io/posts/Stocker/)
-
-#### 🚩 PicoCTF:
-* [More Cookies | Web Exploitation](https://younestasra-r4z3rsw0rd.github.io/posts/MoreCookies/)
-
-#### 🧪 Web Security Academy Labs:
-* [SQL Injection Labs](https://younestasra-r4z3rsw0rd.github.io/posts/SQL-Injection-labs/)
-* [XXE Labs](https://github.com/YounesTasra-R4z3rSw0rd/Web-Security-Academy/tree/main/XXE%20Injection)
+<details>
+  <summary><h4>🚩 TryHackMe</h4></summary>
+  <p>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/opacity/" target="_blank">Opacity</a></li></ul>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/dogcat/" target="_blank">Dogcat</a></li></ul>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Team/" target="_blank">Team</a></li></ul>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/B3dR0ck/" target="_blank">B3dr0ck</a></li></ul>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/tomghost/" target="_blank">Tomghost</a></li></ul>
+  </p>
+</details>
+<details>
+  <summary><h4>🚩 HackTheBox</h4></summary>
+  <p>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Stocker/" target="_blank">Stocker</a></li></ul>
+  </p>
+</details>
+<details>
+  <summary><h4>🚩 PicoCTF</h4></summary>
+  <p>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/MoreCookies/" target="_blank">More Cookies | Web Exploitation</a></li></ul>
+  </p>
+</details>
+<details>
+  <summary><h4>🧪 Web Security Academy Labs</h4></summary> 
+  <p>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/SQL-Injection-labs/" target="_blank">SQL Injection Labs</a></li></ul>
+    <ul><li><a href="https://github.com/YounesTasra-R4z3rSw0rd/Web-Security-Academy/tree/main/XXE%20Injection" target="_blank">XXE Labs</a></li></ul>
+  </p>
+</details>
 
 ### 📈 Github Stats
 <p align="center">
