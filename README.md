@@ -66,6 +66,7 @@
 <details>
   <summary><h4>🚩 TryHackMe</h4></summary>
   <p>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/GitHappens/" target="_blank">Git Happens</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/opacity/" target="_blank">Opacity</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/dogcat/" target="_blank">Dogcat</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Team/" target="_blank">Team</a></li></ul>
@@ -83,6 +84,14 @@
   <summary><h4>🚩 PicoCTF</h4></summary>
   <p>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/MoreCookies/" target="_blank">More Cookies | Web Exploitation</a></li></ul>
+  </p>
+</details>
+<details>
+  <summary><h4>🚩 CyberTalents</h4></summary>
+  <p>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/TheRestrictedSessions/" target="_blank">The Restricted Sessions</a></li></ul>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Newsletter/" target="_blank">Newsletter</a></li></ul>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Hashable/" target="_blank">Hashable</a></li></ul>
   </p>
 </details>
 <details>
