@@ -90,6 +90,7 @@
 <details>
   <summary><h4>🚩 CyberTalents</h4></summary>
   <p>
+    <ul><li><a href="https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts/tree/main/CyberTalents/Sonic%20go%20brrr" target="_blank">Sonic go brrr</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/TheRestrictedSessions/" target="_blank">The Restricted Sessions</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Newsletter/" target="_blank">Newsletter</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Hashable/" target="_blank">Hashable</a></li></ul>
