@@ -80,7 +80,9 @@
 <details>
   <summary><h4>🚩 HackTheBox</h4></summary>
   <p>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Templated/" target="_blank">Templated</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Stocker/" target="_blank">Stocker</a></li></ul>
+  
   </p>
 </details>
 <details>
