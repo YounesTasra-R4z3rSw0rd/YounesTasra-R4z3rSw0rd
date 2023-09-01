@@ -58,6 +58,7 @@
 </p>
 
 ### 📂 Projects:
+* [Wireless-Toolkit Framework](https://github.com/YounesTasra-R4z3rSw0rd/Wireless-Toolkit/)
 * Open-Source Intelligence Framework - ``OpenSINT-Xplorer`` 
 * [Python-based parser for analyzing FAT32 filesystems](https://github.com/YounesTasra-R4z3rSw0rd/FAT32-Parser)
 * [Android Password Managers Security Analysis](https://github.com/YounesTasra-R4z3rSw0rd/Android-Password-Managers-Security-Analysis)
