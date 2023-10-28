@@ -68,6 +68,7 @@
 <details>
   <summary><h4>🚩 TryHackMe</h4></summary>
   <p>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Athena/" target="_blank">Athena</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Flip/" target="_blank">Flip</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Commited/" target="_blank">Commited</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/GitHappens/" target="_blank">Git Happens</a></li></ul>
@@ -81,6 +82,9 @@
 <details>
   <summary><h4>🚩 HackTheBox</h4></summary>
   <p>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Gofer/" target="_blank">Gofer</a></li></ul>
+  <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Jupiter/" target="_blank">Jupiter</a></li></ul>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/PC/" target="_blank">PC</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Templated/" target="_blank">Templated</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Stocker/" target="_blank">Stocker</a></li></ul>
   
