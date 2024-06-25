@@ -10,10 +10,8 @@
 </h1>
 
 ## 👩‍💻 About Me:
-- 🏫 I am currently a cybersecurity engineering student 
 - 🚩 I am a proactive learner who seeks to expand my knowledge and skills in cybersecurity through the use of online platforms such as TryHackMe, HackTheBox, and other CTF platforms.
 - 🎓 I have keen interest in Ethical Hacking, Offensive Security, Red Teaming, and Network and Web Application Penetration Testing
-- 🔭 I am currently actively engaged in a project where I am developing an OSINT (Open Source Intelligence) Framework using Python3.
 
 ## 🧠 Skills:
 ### 💻 Programming Languages:
@@ -58,8 +56,9 @@
 </p>
 
 ### 📂 Projects:
+* **Stealth-Inj3ct0r** — Framework for evading Antivirus solutions using process injection techniques.
 * [Wireless-Toolkit Framework](https://github.com/YounesTasra-R4z3rSw0rd/Wireless-Toolkit/)
-* Open-Source Intelligence Framework - ``OpenSINT-Xplorer`` 
+* **OpenSINT-Xplorer** — Open-Source Intelligence Framework 
 * [Python-based parser for analyzing FAT32 filesystems](https://github.com/YounesTasra-R4z3rSw0rd/FAT32-Parser)
 * [Android Password Managers Security Analysis](https://github.com/YounesTasra-R4z3rSw0rd/Android-Password-Managers-Security-Analysis)
 * DNS Spoofer
