@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=791610&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Younes+Tasra+-+R4z3rSw0rd;Cybersecurity+Enthusiast+on+an+infinite+learning+loop." alt="Typing SVG" /></a><br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=791610&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Younes+Tasra+-+R4z3rSw0rd;Cybersecurity+Enthusiast+On+an+Infinite+Learning+Loop." alt="Typing SVG" /></a><br/>
   <a href="https://www.linkedin.com/in/younes-tasra-95a1a4234/"><img src="https://img.shields.io/badge/Linkedin-%40YounesTasra-9cf.svg" alt="younes-tasra-95a1a4234" height="18"></a>
   <a href="https://younestasra-r4z3rsw0rd.github.io/"><img src="https://img.shields.io/badge/Portfolio-%40YounesTasra-brown.svg" alt="YounesTasra" height="18"></a>
   <a href="https://twitter.com/YounesTasra"><img src="https://img.shields.io/badge/Twitter-%40YounesTasra-blue.svg" alt="@YounesTasra" height="18"></a>
@@ -82,7 +82,7 @@
   <summary><h4>🚩 HackTheBox</h4></summary>
   <p>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Gofer/" target="_blank">Gofer</a></li></ul>
-  <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Jupiter/" target="_blank">Jupiter</a></li></ul>
+    <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Jupiter/" target="_blank">Jupiter</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/PC/" target="_blank">PC</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Templated/" target="_blank">Templated</a></li></ul>
     <ul><li><a href="https://younestasra-r4z3rsw0rd.github.io/posts/Stocker/" target="_blank">Stocker</a></li></ul>
